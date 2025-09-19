@@ -3,7 +3,6 @@ import streamlit as st
 import random
 import openai
 import requests
-from bs4 import BeautifulSoup
 
 # --- Constants ---
 PLOTGEN_URL = "https://writingexercises.co.uk/plotgenerator.php"
