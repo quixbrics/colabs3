@@ -17,7 +17,7 @@ DROPDOWNS = {
 st.set_page_config(page_title="Colabs 3 Concept Development and Naff Idea Generator", layout="centered")
 st.title("Colabs 3 Concept Development and Naff Idea Generator")
 st.markdown("""
-This tool helps students generate creative writing loglines, cinematic opening scenes, and visual shot lists. Start with a random plot starter, then use AI to develop your story step by step!
+This Ai Slop machine helps students generate creative writing loglines, cinematic opening scenes, and visual shot lists. Start with a random plot starter, then use AI to develop your story step by step! Just remember, this will probably churn out Ai Slo, easily spotted by the people who made it. 
 """)
 
 # --- Helper Functions ---
