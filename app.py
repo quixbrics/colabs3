@@ -56,7 +56,7 @@ def call_openai(messages=None, engine="o4-mini-colabs"):
 # --- Plot Generator ---
 st.header("Plot Generator (External Tool)")
 import streamlit.components.v1 as components
-components.iframe("https://writingexercises.co.uk/plotgenerator.php", height=900)
+components.iframe("https://writingexercises.co.uk/plotgenerator.php", height=1080)
 
 # --- Plot Summary Entry ---
 st.header("Plot Summary")
